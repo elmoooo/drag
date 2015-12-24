@@ -8,4 +8,6 @@ function drag(obj){
     obj.onmousedown = function () {
 
     }
+
+    var new1c7 = 0;
 }
