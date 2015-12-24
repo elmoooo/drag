@@ -8,4 +8,5 @@ function drag(obj){
     obj.onmousedown = function () {
 
     }
+    var master = 0;
 }
